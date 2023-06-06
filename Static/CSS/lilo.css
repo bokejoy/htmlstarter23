@@ -1,0 +1,57 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aliceblue;
+}
+li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 15px;
+}
+li,a:hover{
+    background-color: aliceblue;
+}
+.Fruits{
+    background-color: #050505;
+    color: cyan;
+    margin: 15px;
+    border: 15px solid #ffffff;
+    text-align: center;
+}
+.fruits{
+    background-color: #0d0e0e;
+    color: aliceblue;
+    margin: 15px;
+    border: 15px solid aliceblue;
+    text-align: center;
+
+}
+.cars{
+    background-color: #050505;
+    color: skyblue;
+    margin: 15px;
+    border: 15px solid aliceblue;
+    text-align: center;
+}
+#matunda{
+    background-color: skyblue;
+    text-align: center;
+    border:5px dotted whitesmoke ;
+    margin: 10px ;
+    padding: 10px ;
+
+}
+#Magari{
+    background-color: burlywood;
+    text-align: center;
+    border: 5px solid snow;
+    margin: 10px;
+    padding: 10px;
+
+}
